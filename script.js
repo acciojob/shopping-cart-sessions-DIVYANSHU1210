@@ -72,4 +72,4 @@ document.getElementById("clear-cart-btn").addEventListener("click", () => {
 
 // Initialize the product list and shopping cart
 renderProducts();
-renderCart();
+renderCart(); // Load cart data when the page loads
